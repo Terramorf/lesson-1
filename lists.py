@@ -1,7 +1,19 @@
-phones = ['iphone 12', 'Samsung Galaxy s21', 'Xiami mi11', 'iphone 12', 'iphone 12']
+a='1'
+b=float(a)
+print(b)
 
-del phones[1]
-print(phones)
+aa='2'
+bb=int(aa)
+print(bb)
 
-phones.remove('iphone 12')
-print(phones)
+c=1
+d=bool(c)
+print(d)
+
+cc=''
+dd=bool(cc)
+print(dd)
+
+ccc=0
+ddd=bool(ccc)
+print(ddd)
